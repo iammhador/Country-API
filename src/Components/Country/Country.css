@@ -1,0 +1,13 @@
+.country {
+  text-align: center;
+  background-color: blanchedalmond;
+  margin: 20px 40px;
+  padding: 25px;
+  border: 10px solid darkmagenta;
+  border-radius: 25px;
+}
+
+.country img {
+  width: 250px;
+  height: 150px;
+}
